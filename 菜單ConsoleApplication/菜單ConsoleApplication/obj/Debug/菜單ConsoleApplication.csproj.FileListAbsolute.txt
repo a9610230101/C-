@@ -1,0 +1,6 @@
+c:\users\m306\documents\visual studio 2015\Projects\菜單ConsoleApplication\菜單ConsoleApplication\bin\Debug\菜單ConsoleApplication.exe.config
+c:\users\m306\documents\visual studio 2015\Projects\菜單ConsoleApplication\菜單ConsoleApplication\bin\Debug\菜單ConsoleApplication.exe
+c:\users\m306\documents\visual studio 2015\Projects\菜單ConsoleApplication\菜單ConsoleApplication\bin\Debug\菜單ConsoleApplication.pdb
+c:\users\m306\documents\visual studio 2015\Projects\菜單ConsoleApplication\菜單ConsoleApplication\obj\Debug\菜單ConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\m306\documents\visual studio 2015\Projects\菜單ConsoleApplication\菜單ConsoleApplication\obj\Debug\菜單ConsoleApplication.exe
+c:\users\m306\documents\visual studio 2015\Projects\菜單ConsoleApplication\菜單ConsoleApplication\obj\Debug\菜單ConsoleApplication.pdb
