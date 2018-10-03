@@ -1,0 +1,9 @@
+c:\users\m306\documents\visual studio 2015\Projects\JuiceWindowsFormsApplication1\JuiceWindowsFormsApplication1\bin\Debug\JuiceWindowsFormsApplication1.exe.config
+c:\users\m306\documents\visual studio 2015\Projects\JuiceWindowsFormsApplication1\JuiceWindowsFormsApplication1\bin\Debug\JuiceWindowsFormsApplication1.exe
+c:\users\m306\documents\visual studio 2015\Projects\JuiceWindowsFormsApplication1\JuiceWindowsFormsApplication1\bin\Debug\JuiceWindowsFormsApplication1.pdb
+c:\users\m306\documents\visual studio 2015\Projects\JuiceWindowsFormsApplication1\JuiceWindowsFormsApplication1\obj\Debug\JuiceWindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\m306\documents\visual studio 2015\Projects\JuiceWindowsFormsApplication1\JuiceWindowsFormsApplication1\obj\Debug\JuiceWindowsFormsApplication1.Form1.resources
+c:\users\m306\documents\visual studio 2015\Projects\JuiceWindowsFormsApplication1\JuiceWindowsFormsApplication1\obj\Debug\JuiceWindowsFormsApplication1.Properties.Resources.resources
+c:\users\m306\documents\visual studio 2015\Projects\JuiceWindowsFormsApplication1\JuiceWindowsFormsApplication1\obj\Debug\JuiceWindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\m306\documents\visual studio 2015\Projects\JuiceWindowsFormsApplication1\JuiceWindowsFormsApplication1\obj\Debug\JuiceWindowsFormsApplication1.exe
+c:\users\m306\documents\visual studio 2015\Projects\JuiceWindowsFormsApplication1\JuiceWindowsFormsApplication1\obj\Debug\JuiceWindowsFormsApplication1.pdb

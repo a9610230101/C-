@@ -1,9 +1,0 @@
-c:\users\m306\documents\visual studio 2015\Projects\菜單Windows Form Application\菜單Windows Form Application\bin\Debug\菜單Windows Form Application.exe.config
-c:\users\m306\documents\visual studio 2015\Projects\菜單Windows Form Application\菜單Windows Form Application\obj\Debug\菜單Windows Form Application.csprojResolveAssemblyReference.cache
-c:\users\m306\documents\visual studio 2015\Projects\菜單Windows Form Application\菜單Windows Form Application\obj\Debug\菜單Windows_Form_Application.Properties.Resources.resources
-c:\users\m306\documents\visual studio 2015\Projects\菜單Windows Form Application\菜單Windows Form Application\obj\Debug\菜單Windows Form Application.csproj.GenerateResource.Cache
-c:\users\m306\documents\visual studio 2015\Projects\菜單Windows Form Application\菜單Windows Form Application\obj\Debug\菜單Windows_Form_Application.Form1.resources
-c:\users\m306\documents\visual studio 2015\Projects\菜單Windows Form Application\菜單Windows Form Application\bin\Debug\菜單Windows Form Application.exe
-c:\users\m306\documents\visual studio 2015\Projects\菜單Windows Form Application\菜單Windows Form Application\bin\Debug\菜單Windows Form Application.pdb
-c:\users\m306\documents\visual studio 2015\Projects\菜單Windows Form Application\菜單Windows Form Application\obj\Debug\菜單Windows Form Application.exe
-c:\users\m306\documents\visual studio 2015\Projects\菜單Windows Form Application\菜單Windows Form Application\obj\Debug\菜單Windows Form Application.pdb

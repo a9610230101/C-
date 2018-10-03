@@ -1,9 +1,0 @@
-c:\users\m306\documents\visual studio 2015\Projects\menuWindowsFormsApplication1\menuWindowsFormsApplication1\bin\Debug\menuWindowsFormsApplication1.exe.config
-c:\users\m306\documents\visual studio 2015\Projects\menuWindowsFormsApplication1\menuWindowsFormsApplication1\bin\Debug\menuWindowsFormsApplication1.exe
-c:\users\m306\documents\visual studio 2015\Projects\menuWindowsFormsApplication1\menuWindowsFormsApplication1\bin\Debug\menuWindowsFormsApplication1.pdb
-c:\users\m306\documents\visual studio 2015\Projects\menuWindowsFormsApplication1\menuWindowsFormsApplication1\obj\Debug\menuWindowsFormsApplication1.csprojResolveAssemblyReference.cache
-c:\users\m306\documents\visual studio 2015\Projects\menuWindowsFormsApplication1\menuWindowsFormsApplication1\obj\Debug\menuWindowsFormsApplication1.Form1.resources
-c:\users\m306\documents\visual studio 2015\Projects\menuWindowsFormsApplication1\menuWindowsFormsApplication1\obj\Debug\menuWindowsFormsApplication1.Properties.Resources.resources
-c:\users\m306\documents\visual studio 2015\Projects\menuWindowsFormsApplication1\menuWindowsFormsApplication1\obj\Debug\menuWindowsFormsApplication1.csproj.GenerateResource.Cache
-c:\users\m306\documents\visual studio 2015\Projects\menuWindowsFormsApplication1\menuWindowsFormsApplication1\obj\Debug\menuWindowsFormsApplication1.exe
-c:\users\m306\documents\visual studio 2015\Projects\menuWindowsFormsApplication1\menuWindowsFormsApplication1\obj\Debug\menuWindowsFormsApplication1.pdb
